@@ -1,0 +1,28 @@
+{
+  "name": "steammessage",
+  "version": "1.0.0",
+  "description": "Send message to all your friend in Steam witheout gui Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volca780/SteamMessage.git"
+  },
+  "keywords": [
+    "steam",
+    "message",
+    "open",
+    "source",
+    "npm",
+    "node",
+    "js"
+  ],
+  "author": "volca780",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volca780/SteamMessage/issues"
+  },
+  "homepage": "https://github.com/volca780/SteamMessage#readme"
+}
